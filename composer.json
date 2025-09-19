@@ -22,12 +22,9 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "4.x-dev"
-        },
         "expose": [
-            "css",
-            "images"
+            "client/dist/css",
+            "client/dist/images"
         ]
     }
 }
